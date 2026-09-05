@@ -1,0 +1,12 @@
+# Aiva Agency - Core Customized Agents
+
+brand-guardian
+ui-designer
+frontend-developer
+social-media-strategist
+instagram-curator
+linkedin-content-creator
+senior-developer
+ppc-campaign-strategist
+paid-social-strategist
+seo-specialist
